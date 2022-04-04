@@ -1,4 +1,4 @@
-# go-getting-started
+# go-reflection
 
 A barebones Go app for Heroku deployment. Modified from the [Getting Started with Go on Heroku](https://devcenter.heroku.com/articles/getting-started-with-go) article .
 
