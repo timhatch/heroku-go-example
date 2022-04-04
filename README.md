@@ -1,7 +1,6 @@
 # go-getting-started
-A barebones Go app, which can easily be deployed to Heroku.
 
-Modified from the [Getting Started with Go on Heroku](https://devcenter.heroku.com/articles/getting-started-with-go) article .
+A barebones Go app for Heroku deployment. Modified from the [Getting Started with Go on Heroku](https://devcenter.heroku.com/articles/getting-started-with-go) article .
 
 ## Running Locally
 
@@ -11,11 +10,11 @@ Make sure [Go](http://golang.org/doc/install) version 1.17 or newer is installed
 $ go run main.go
 ```
 
-Your app should now be running on [localhost:8080](http://localhost:5000/).
+The app should now be running on [localhost:8080](http://localhost:5000/).
 
 ## Deploying to Heroku
-Push to github and deploy via the Heroku dashboard
 
+Push to github and deploy via the Heroku dashboard
 
 ## Documentation
 
